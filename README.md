@@ -1,4 +1,4 @@
-# flutter_rive
+# Flutter Animation by Rive
 
 A new Flutter project.
 
